@@ -132,11 +132,11 @@ Privacy Policy
               <ul className="list-unstyled">
                 <li>
                   <a
-                    href="https://xadefinance.medium.com/what-is-xade-and-why-do-you-need-it-b483f46ba5a1"
+                    href="https://xadefinance.medium.com/meet-the-amazing-team-behind-xade-9f1c4f026649"
                     target="_blank"
                     rel="noreferrer"
                   >
-         What is Xade
+         About us
                   </a>
                 </li>
                 <li>
